@@ -100,8 +100,5 @@ I'm especially interested in learning how to ask the right business questions, c
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yahia-Farag)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahiafarag357@gmail.com)
 
-## 📊 GitHub Stats
-
-![Yahia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yahia-Farag&show_icons=true&theme=default)
 
 ⭐ Thanks for visiting my profile!

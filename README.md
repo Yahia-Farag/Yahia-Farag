@@ -39,8 +39,6 @@ Key analysis included:
 * Vehicle Type Analysis
 * Electric / Gasoline / Hybrid / Diesel Analysis
 
-🔗 [View Project](ضيف رابط الـ repo هنا)
-
 🛒 E-Commerce Sales Analysis
 Tools: SQL Server | Power BI
 Worked with an e-commerce dataset to practice data cleaning, database relationships, SQL analysis, and business-oriented queries.
@@ -55,8 +53,6 @@ Skills practiced:
 * Revenue Analysis
 * Customer & Order Analysis
 
-🔗 [View Project](ضيف رابط الـ repo هنا)
-
 🧹 Retail Store Sales — Data Cleaning & EDA
 Tools: SQL Server (T-SQL)
 Cleaned a 12,500+ row retail sales dataset: recovered missing prices and quantities using a verified mathematical relationship (Total = Price × Quantity), investigated 33% missing discount data through root-cause testing (year, payment method), and built categorical status columns instead of overwriting raw data. Answered business questions using GROUP BY, subqueries, CTEs, and window functions (ROW_NUMBER).
@@ -68,8 +64,6 @@ Skills practiced:
 * CTE
 * Window Functions
 
-🔗 [View Project](ضيف رابط الـ repo هنا)
-
 ☕ Dirty Cafe Sales — Multi-Type Missing Data
 Tools: SQL Server (T-SQL)
 Cleaned a 10,000-row cafe sales dataset containing three distinct "missing" patterns (NULL, 'ERROR', 'UNKNOWN') mixed across every column. Used TRY_CAST for safe numeric conversion on text-typed columns, resolved conflicting price-based item inference, and performed a fully verified DELETE on unrecoverable rows.
@@ -79,8 +73,6 @@ Skills practiced:
 * Conditional Aggregation
 * Safe DELETE Workflow
 * Data Quality Classification
-
-🔗 [View Project](ضيف رابط الـ repo هنا)
 
 📈 What I'm Working On
 I'm currently focused on improving the way I think as an analyst, not just learning tools.
@@ -94,7 +86,4 @@ I'm especially interested in learning how to ask the right business questions, c
 * 💻 GitHub: [Yahia-Farag](https://github.com/Yahia-Farag)
 
 📊 GitHub Stats
-
-![Yahia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yahia-Farag&show_icons=true&theme=default)
-
 ⭐ Thanks for visiting my profile!

@@ -74,6 +74,8 @@ Skills practiced:
 - CTE
 - Window Functions
 
+🔗 [View Project](https://github.com/Yahia-Farag/retail-sales-data-cleaning)
+
 ### ☕ Dirty Cafe Sales — Multi-Type Missing Data
 **Tools:** SQL Server (T-SQL)
 
@@ -84,6 +86,8 @@ Skills practiced:
 - Conditional Aggregation
 - Safe DELETE Workflow
 - Data Quality Classification
+
+🔗 [View Project](https://github.com/Yahia-Farag/dirty-cafe-sales-cleaning)
 
 ## 📈 What I'm Working On
 
@@ -100,5 +104,4 @@ I'm especially interested in learning how to ask the right business questions, c
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yahia-Farag)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahiafarag357@gmail.com)
 
-
-⭐ Thanks for visiting my profile!
+*⭐ Thanks for visiting my profile!*

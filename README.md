@@ -63,9 +63,9 @@ Skills practiced:
 - Customer & Order Analysis
 
 ### 🧹 Retail Store Sales — Data Cleaning & EDA
-**Tools:** SQL Server (T-SQL)
+**Tools:** SQL Server (T-SQL) · Power BI
 
-Cleaned a 12,500+ row retail sales dataset: recovered missing prices and quantities using a verified mathematical relationship (Total = Price × Quantity), investigated 33% missing discount data through root-cause testing (year, payment method), and built categorical status columns instead of overwriting raw data. Answered business questions using GROUP BY, subqueries, CTEs, and window functions (ROW_NUMBER).
+Cleaned a 12,500+ row retail sales dataset: recovered missing prices and quantities using a verified mathematical relationship (Total = Price × Quantity), investigated 33% missing discount data through root-cause testing (year, payment method), and built categorical status columns instead of overwriting raw data. Answered business questions using GROUP BY, subqueries, CTEs, and window functions (ROW_NUMBER). Followed up with an interactive Power BI dashboard covering revenue by category, payment method comparison, monthly trends, and top customers.
 
 Skills practiced:
 - Data Profiling
@@ -73,6 +73,7 @@ Skills practiced:
 - Safe UPDATE Practices
 - CTE
 - Window Functions
+- Power BI Dashboard Design
 
 🔗 [View Project](https://github.com/Yahia-Farag/retail-sales-data-cleaning)
 

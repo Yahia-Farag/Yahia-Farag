@@ -34,18 +34,18 @@ I enjoy working with data from the cleaning and transformation stage to analysis
 
 ## 📊 Featured Projects
 
-### 🚗 BMW Sales Performance 2024
-**Tools:** Power BI | Power Query
+### 💻 Technology & Clothes Store Sales & Financial Performance
+**Tools:** SQL Server (T-SQL) | Power BI | DAX
 
-Analyzed BMW sales data to identify sales performance, best-selling models, pricing patterns, vehicle types, and customer preferences.
+Built a comprehensive end-to-end analytics project for a multi-category retail store. Conducted deep data cleaning, resolved duplicates, managed NULL integrity, and performed advanced EDA using CTEs and window functions. Designed a professional minimalist Power BI dashboard featuring Sales Analytics, Customer Demographics, Product Performance, and Sales Trends.
 
-Key analysis included:
-- Total Sales
-- Best-Selling Models
-- Top Colors
-- Highest-Priced Cars
-- Vehicle Type Analysis
-- Electric / Gasoline / Hybrid / Diesel Analysis
+Skills practiced:
+- Data Cleaning & Duplicate Removal
+- Advanced SQL (CTEs, Window Functions, Views)
+- DAX Measures (Revenue & Net Profit calculations)
+- Power BI Dashboard Design & Deployment
+
+🔗 [View Project (Dashboards & SQL Queries)](https://github.com/Yahia-Farag/Technology-Clothes-Store-Analysis)
 
 ### 🛒 E-Commerce Sales Analysis
 **Tools:** SQL Server | Power BI
@@ -61,6 +61,8 @@ Skills practiced:
 - Window Functions
 - Revenue Analysis
 - Customer & Order Analysis
+
+🔗 [View Project](https://github.com/Yahia-Farag/ecommerce-sales-analysis)
 
 ### 🧹 Retail Store Sales — Data Cleaning & EDA
 **Tools:** SQL Server (T-SQL) · Power BI

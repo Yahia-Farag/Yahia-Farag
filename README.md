@@ -47,23 +47,6 @@ Skills practiced:
 
 🔗 [View Project](https://github.com/Yahia-Farag/Technology-Clothes-Store-Analysis)
 
-### 🛒 E-Commerce Sales Analysis
-**Tools:** SQL Server | Power BI
-
-Worked with an e-commerce dataset to practice data cleaning, database relationships, SQL analysis, and business-oriented queries.
-
-Skills practiced:
-- Data Cleaning
-- JOINs
-- GROUP BY & HAVING
-- Subqueries
-- EXISTS / NOT EXISTS
-- Window Functions
-- Revenue Analysis
-- Customer & Order Analysis
-
-🔗 [View Project](https://github.com/Yahia-Farag/ecommerce-sales-analysis)
-
 ### 🧹 Retail Store Sales — Data Cleaning & EDA
 **Tools:** SQL Server (T-SQL) · Power BI
 

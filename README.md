@@ -45,7 +45,7 @@ Skills practiced:
 - DAX Measures (Revenue & Net Profit calculations)
 - Power BI Dashboard Design & Deployment
 
-🔗 [View Project (Dashboards & SQL Queries)](https://github.com/Yahia-Farag/Technology-Clothes-Store-Analysis)
+🔗 [View Project](https://github.com/Yahia-Farag/Technology-Clothes-Store-Analysis)
 
 ### 🛒 E-Commerce Sales Analysis
 **Tools:** SQL Server | Power BI

@@ -76,19 +76,6 @@ Skills practiced:
 
 🔗 [View Project](https://github.com/Yahia-Farag/retail-sales-data-cleaning)
 
-### ☕ Dirty Cafe Sales — Multi-Type Missing Data
-**Tools:** SQL Server (T-SQL)
-
-Cleaned a 10,000-row cafe sales dataset containing three distinct "missing" patterns (NULL, 'ERROR', 'UNKNOWN') mixed across every column. Used TRY_CAST for safe numeric conversion on text-typed columns, resolved conflicting price-based item inference, and performed a fully verified DELETE on unrecoverable rows.
-
-Skills practiced:
-- TRY_CAST
-- Conditional Aggregation
-- Safe DELETE Workflow
-- Data Quality Classification
-
-🔗 [View Project](https://github.com/Yahia-Farag/dirty-cafe-sales-cleaning)
-
 ## 📈 What I'm Working On
 
 I'm currently focused on improving the way I think as an analyst, not just learning tools.

@@ -34,6 +34,20 @@ I enjoy working with data from the cleaning and transformation stage to analysis
 
 ## 📊 Featured Projects
 
+### 👥 HR Attrition Analysis — Workforce & Root Cause Insights
+**Tools:** SQL Server (T-SQL) · Power BI · DAX
+
+Conducted an end-to-end workforce analytics project to uncover the root causes of employee turnover and employee attrition. Performed data extraction and cleaning using SQL, followed by building an interactive, multi-page minimalist Power BI dashboard. The report features executive KPIs, root cause breakdowns (Job Role, Marital Status, Business Travel), leadership & satisfaction insights, and overtime impact analysis to support data-driven HR decision-making.
+
+Skills practiced:
+- Exploratory Data Analysis (EDA)
+- Advanced SQL Queries
+- DAX Measures (Attrition Rate & Calculations)
+- Minimalist Power BI Dashboard Design
+- Interactive Tooltip Configuration
+
+🔗 [View Project](https://github.com/Yahia-Farag/HR-Attrition-Analytics)
+
 ### 💻 Technology & Clothes Store Sales & Financial Performance
 **Tools:** SQL Server (T-SQL) | Power BI | DAX
 

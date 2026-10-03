@@ -91,4 +91,4 @@ I'm especially interested in learning how to ask the right business questions, c
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yahia-Farag)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahiafarag357@gmail.com)
 
-🌟 𝗧𝗵𝗮𝗻𝗸𝘀 𝗳𝗼𝗿 𝘃𝗶𝘀𝗶𝘁𝗶𝗻𝗴 𝗺𝘆 𝗽𝗿𝗼𝗳𝗶𝗹𝗲!
+### 🌟 **Thanks for visiting my profile!**

@@ -22,7 +22,9 @@ I enjoy working with data from the cleaning and transformation stage to analysis
 - SQL
 - Excel
 - Power BI
+- DAX
 - Power Query
+- Data Modeling
 - Data Cleaning
 - Data Visualization
 - Exploratory Data Analysis

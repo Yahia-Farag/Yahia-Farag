@@ -9,7 +9,7 @@ I am a detail-oriented **Data Analyst** focused on turning raw data into clear, 
 - 🎯 **Focus Areas:** Exploratory Data Analysis (EDA), KPI Tracking, Root Cause Analysis, and Business Intelligence.
 - 🌱 **Currently Learning:** Expanding my analytical toolkit with **Python** for advanced data manipulation.
 
-[![Download CV](https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Yahia-Farag/Yahia-Farag/blob/main/Yahia_Farag_Data_Analyst_CV.pdf)
+[![Download CV](https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/Yahia-Farag/Yahia-Farag/main/Yahia_Farag_Data_Analyst_CV.pdf)
 
 ## 🛠️ Tech Stack & Skills
 
@@ -61,7 +61,7 @@ I prioritize asking the right business questions, selecting the optimal analytic
 
 ## 🤝 Let's Connect
 
-[![Download CV](https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Yahia-Farag/Yahia-Farag/blob/main/Yahia_Farag_Data_Analyst_CV.pdf)
+[![Download CV](https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/Yahia-Farag/Yahia-Farag/main/Yahia_Farag_Data_Analyst_CV.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahiafarag)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yahia-Farag)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahiafarag357@gmail.com)

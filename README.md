@@ -1,6 +1,6 @@
 # Hi there, I'm Yahia Farag 👋
 
-### Data Analyst | SQL | Power BI | Excel
+### Data Analyst | Excel, SQL, Power BI, DAX, Power Query
 
 I am a detail-oriented **Data Analyst** focused on turning raw data into clear, actionable insights that drive business decisions. With hands-on experience as a Data Analytics Intern at NGI and a strong foundation in commerce, I specialize in the entire data lifecycle—from rigorous data cleaning and SQL transformations to advanced modeling and interactive Power BI visualizations.
 

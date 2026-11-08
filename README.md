@@ -20,37 +20,37 @@ I am a detail-oriented **Data Analyst** focused on turning raw data into clear, 
 ![Power Query](https://img.shields.io/badge/Power%20Query-4472C4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-* **Core Competencies:** Data Cleaning & Transformation, Data Modeling, Exploratory Data Analysis (EDA), Profit & Loss Analysis.
-* **Technical Execution:** Advanced SQL (CTEs, Window Functions, Subqueries), DAX Measures, Relational Databases, Power BI Dashboard Design.
+- **Core Competencies:** Data Cleaning & Transformation, Data Modeling, Exploratory Data Analysis (EDA), Profit & Loss Analysis.
+- **Technical Execution:** Advanced SQL (CTEs, Window Functions, Subqueries), DAX Measures, Relational Databases, Power BI Dashboard Design.
 
 ## 📊 Featured Projects
 
 ### HR Attrition Analysis — Workforce & Root Cause Insights
 **Tools:** SQL Server (T-SQL) · Power BI · DAX
 
-Conducted an end-to-end workforce analytics project investigating the root causes of employee turnover. Extracted and cleaned 1,400+ records using SQL, and engineered an interactive Power BI dashboard featuring executive KPIs and dynamic tooltips.
-* **Business Impact:** Uncovered actionable insights regarding job role turnover rates, overtime impact, and leadership satisfaction to optimize HR retention strategies.
-* **Skills:** Advanced SQL Queries, DAX (Attrition calculations), Minimalist Dashboard Design.
+Comprehensive workforce analytics project investigating employee attrition root causes, department turnover, overtime impact, and job satisfaction[cite: 20]. Extracted and cleaned records using SQL, and engineered an interactive Power BI dashboard featuring executive KPIs.
+- **Business Impact:** Uncovered actionable insights regarding job role turnover rates and overtime impact to optimize HR retention strategies.
+- **Skills:** Advanced SQL Queries, DAX, Minimalist Dashboard Design.
 
-🔗 [View Project](https://github.com/Yahia-Farag/HR-Attrition-Analytics)
+🔗 [View Project](https://github.com/Yahia-Farag/End-To-End-HR-Attrition-Analytics)
 
-### Technology & Clothes Store — Sales & Financial Performance
+### Global Layoffs Analytics — Corporate Trends & Funding
+**Tools:** SQL Server (T-SQL) · Power BI · Power Query · DAX
+
+An end-to-end data auditing, T-SQL cleaning, and Power BI business intelligence project analyzing global corporate layoffs, industry trends, and funding impacts (2020–2024)[cite: 21].
+- **Business Impact:** Provided a clear macroeconomic overview of industry-specific vulnerabilities, geographic layoff distributions, and post-funding survival rates.
+- **Skills:** Data Auditing, Complex T-SQL Transformations, Advanced Power BI Visualizations.
+
+🔗 [View Project](https://github.com/Yahia-Farag/End-to-End-Global-Layoffs-Analytics)
+
+### Restaurant Sales Analysis — Performance & Revenue Trends
 **Tools:** SQL Server (T-SQL) · Power BI · DAX
 
-Built a comprehensive analytics pipeline for a multi-category retail store. Conducted rigorous data auditing, handled NULL integrity, and performed advanced EDA. Designed a minimalist Power BI dashboard tracking Sales Analytics, Customer Demographics, and Product Performance.
-* **Business Impact:** Provided a clear view of revenue streams, profit margins, and seasonal sales trends to support data-driven inventory and marketing decisions.
-* **Skills:** Data Cleaning, CTEs & Window Functions, DAX (Revenue/Net Profit), Business Intelligence.
+End-to-end data cleaning and business intelligence project using T-SQL and Power BI to analyze restaurant sales performance, customer metrics, and revenue trends[cite: 22].
+- **Business Impact:** Highlighted peak ordering hours, top-performing menu items, and customer dining patterns to drive targeted marketing and operational efficiency.
+- **Skills:** ETL Pipeline, Data Cleaning, Relational Modeling, DAX Measures.
 
-🔗 [View Project](https://github.com/Yahia-Farag/Technology-Clothes-Store-Analysis)
-
-### Retail Store Sales — Data Auditing & EDA
-**Tools:** SQL Server (T-SQL) · Power BI
-
-Audited and cleaned a 12,500+ row retail dataset. Recovered missing financial metrics using verified mathematical relationships (Total = Price × Quantity) and investigated a 33% missing discount rate through root-cause testing. Built categorical status columns avoiding raw data overwrites.
-* **Business Impact:** Transformed corrupted raw data into a reliable, analytical-ready dataset, enabling accurate reporting on revenue by category and top customer trends.
-* **Skills:** Data Profiling, NULL Handling, Safe UPDATE Practices, ROW_NUMBER().
-
-🔗 [View Project](https://github.com/Yahia-Farag/retail-sales-data-cleaning)
+🔗 [View Project](https://github.com/Yahia-Farag/End-To-End-Restaurant-Sales-Analysis)
 
 ## 📈 My Analytical Philosophy
 
@@ -62,7 +62,7 @@ I prioritize asking the right business questions, selecting the optimal analytic
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahiafarag)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YAHIA-FARAG)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yahia-Farag)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=yahiafarag357@gmail.com)
 

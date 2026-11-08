@@ -1,71 +1,108 @@
-# Hi there, I'm Yahia Farag 👋
+<div align="center">
+  <h3>👨‍💻 Hi there, I'm Yahia Farag!</h3>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Data+Analyst;Bridging+Raw+Data+and+Strategic+Decisions;SQL+%7C+Power+BI+%7C+Excel">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=007AC9&center=true&vCenter=true&width=800&lines=Data+Analyst;Bridging+Raw+Data+and+Strategic+Decisions;SQL+%7C+Power+BI+%7C+Excel">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Data+Analyst;Bridging+Raw+Data+and+Strategic+Decisions;SQL+%7C+Power+BI+%7C+Excel" alt="Typing animation highlighting my role as a Data Analyst" />
+  </picture>
 
-### Data Analyst | Excel, SQL, Power BI, DAX, Power Query
+  <br/>
+  
+  <a href="https://yahia-farag.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white" alt="View my personal portfolio" /></a>
+  <a href="https://github.com/Yahia-Farag/Yahia-Farag/blob/main/Yahia_Farag_Data_Analyst_CV.pdf"><img src="https://img.shields.io/badge/View%20CV-161B22?style=for-the-badge&logo=readdotcv&logoColor=58A6FF" alt="Download my CV" /></a>
+</div>
 
-I am a detail-oriented **Data Analyst** focused on turning raw data into clear, actionable insights that drive business decisions. With hands-on experience as a Data Analytics Intern at NGI and a strong foundation in commerce, I specialize in the entire data lifecycle—from rigorous data cleaning and SQL transformations to advanced modeling and interactive Power BI visualizations.
+<br/>
 
-- **Current Role:** Data Analytics Intern at NGI, building enterprise-level retail dashboards.
-- **Education:** Third-year student, Faculty of Commerce at Menoufia University.
-- **Focus Areas:** Exploratory Data Analysis (EDA), KPI Tracking, Root Cause Analysis, and Business Intelligence.
-- **Currently Learning:** Expanding my analytical toolkit with **Python** for advanced data manipulation.
+<div align="center">
+  <h3>📊 About Me</h3>
+  <p>
+    I specialize in building robust data models and interactive business intelligence dashboards using SQL and Power BI. Currently deepening my expertise in Advanced DAX and Python, I focus on extracting actionable insights to drive strategic business decisions. I also bring a solid business foundation through my ongoing Commerce studies at Menoufia University.
+  </p>
+</div>
 
-[![Portfolio](https://img.shields.io/badge/Personal_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yahia-farag.vercel.app/)
-[![View CV](https://img.shields.io/badge/View_CV-PDF-0284C7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Yahia-Farag/Yahia-Farag/blob/main/Yahia_Farag_Data_Analyst_CV.pdf)
+<br/>
 
-## 🛠️ Tech Stack & Skills
+<div align="center">
+  <h3>🛠️ Tech Stack & Tools</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=powerbi,sql,excel,python&theme=dark" alt="Core Tech Stack: Power BI, SQL, Excel, Python" />
+  </a>
+  <br/><br/>
+  <details>
+    <summary><b>View Full Toolset</b></summary>
+    <br/>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" alt="Additional Tools: VS Code, Git, GitHub" />
+    </a>
+  </details>
+</div>
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-4472C4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<br/>
 
-* **Core Competencies:** Data Cleaning & Transformation, Data Modeling, Exploratory Data Analysis (EDA), Profit & Loss Analysis.
-* **Technical Execution:** Advanced SQL (CTEs, Window Functions, Subqueries), DAX Measures, Relational Databases, Power BI Dashboard Design.
+<div align="center">
+  <h3>📈 GitHub Analytics</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Yahia-Farag&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=161B22">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Yahia-Farag&show_icons=true&hide_border=true&title_color=007AC9&icon_color=007AC9">
+    <img src="https://github-readme-stats.vercel.app/api?username=Yahia-Farag&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=161B22" alt="Yahia Farag's GitHub Statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahia-Farag&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=161B22">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahia-Farag&layout=compact&hide_border=true&title_color=007AC9">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahia-Farag&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=161B22" alt="Top programming languages used" />
+  </picture>
+</div>
 
-## 📊 Featured Projects
+<br/>
 
-### HR Attrition Analysis — Workforce & Root Cause Insights
-**Tools:** SQL Server (T-SQL) · Power BI · DAX
+<div align="center">
+  <h3>⭐ Featured Projects</h3>
+  <a href="https://github.com/Yahia-Farag/End-To-End-Restaurant-Sales-Analysis">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Yahia-Farag&repo=End-To-End-Restaurant-Sales-Analysis&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=161B22">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Yahia-Farag&repo=End-To-End-Restaurant-Sales-Analysis&hide_border=true&title_color=007AC9&icon_color=007AC9">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yahia-Farag&repo=End-To-End-Restaurant-Sales-Analysis&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=161B22" alt="Restaurant Sales Analysis Project Repository Card">
+    </picture>
+  </a>
+  <a href="https://github.com/Yahia-Farag/End-to-End-Global-Layoffs-Analytics">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Yahia-Farag&repo=End-to-End-Global-Layoffs-Analytics&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=161B22">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Yahia-Farag&repo=End-to-End-Global-Layoffs-Analytics&hide_border=true&title_color=007AC9&icon_color=007AC9">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yahia-Farag&repo=End-to-End-Global-Layoffs-Analytics&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=161B22" alt="Global Layoffs Analytics Project Repository Card">
+    </picture>
+  </a>
+  <a href="https://github.com/Yahia-Farag/End-To-End-HR-Attrition-Analytics">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Yahia-Farag&repo=End-To-End-HR-Attrition-Analytics&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=161B22">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Yahia-Farag&repo=End-To-End-HR-Attrition-Analytics&hide_border=true&title_color=007AC9&icon_color=007AC9">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yahia-Farag&repo=End-To-End-HR-Attrition-Analytics&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=161B22" alt="HR Attrition Analytics Project Repository Card">
+    </picture>
+  </a>
+  
+  <br/><br/>
+  <strong><a href="https://github.com/Yahia-Farag?tab=repositories" style="color: #58A6FF;">🚀 View all 10+ of my Data Analysis Projects in my Repositories 🚀</a></strong>
+</div>
 
-Conducted an end-to-end workforce analytics project investigating the root causes of employee turnover. Extracted and cleaned 1,400+ records using SQL, and engineered an interactive Power BI dashboard featuring executive KPIs and dynamic tooltips.
-* **Business Impact:** Uncovered actionable insights regarding job role turnover rates, overtime impact, and leadership satisfaction to optimize HR retention strategies.
-* **Skills:** Advanced SQL Queries, DAX (Attrition calculations), Minimalist Dashboard Design.
+<br/>
 
-🔗 [View Project](https://github.com/Yahia-Farag/HR-Attrition-Analytics)
+<div align="center">
+  <h3>📫 Let's Connect</h3>
+  <a href="https://linkedin.com/in/YAHIA-FARAG"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
+  <a href="mailto:yahiafarag357@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=58A6FF" alt="Email" /></a>
+  
+  <br/><br/>
+  <sub><i>Thank you for visiting my profile!</i></sub>
+</div>
 
-### Technology & Clothes Store — Sales & Financial Performance
-**Tools:** SQL Server (T-SQL) · Power BI · DAX
+<br/>
 
-Built a comprehensive analytics pipeline for a multi-category retail store. Conducted rigorous data auditing, handled NULL integrity, and performed advanced EDA. Designed a minimalist Power BI dashboard tracking Sales Analytics, Customer Demographics, and Product Performance.
-* **Business Impact:** Provided a clear view of revenue streams, profit margins, and seasonal sales trends to support data-driven inventory and marketing decisions.
-* **Skills:** Data Cleaning, CTEs & Window Functions, DAX (Revenue/Net Profit), Business Intelligence.
-
-🔗 [View Project](https://github.com/Yahia-Farag/Technology-Clothes-Store-Analysis)
-
-### Retail Store Sales — Data Auditing & EDA
-**Tools:** SQL Server (T-SQL) · Power BI
-
-Audited and cleaned a 12,500+ row retail dataset. Recovered missing financial metrics using verified mathematical relationships (Total = Price × Quantity) and investigated a 33% missing discount rate through root-cause testing. Built categorical status columns avoiding raw data overwrites.
-* **Business Impact:** Transformed corrupted raw data into a reliable, analytical-ready dataset, enabling accurate reporting on revenue by category and top customer trends.
-* **Skills:** Data Profiling, NULL Handling, Safe UPDATE Practices, ROW_NUMBER().
-
-🔗 [View Project](https://github.com/Yahia-Farag/retail-sales-data-cleaning)
-
-## 📈 My Analytical Philosophy
-
-I believe tools are only as good as the questions they answer. My focus goes beyond writing code; it's about mastering the translation process: 
-
-> **Raw Data → Clean Data → Analysis → Insights → Business Decisions**
-
-I prioritize asking the right business questions, selecting the optimal analytical approach, and communicating findings clearly to non-technical stakeholders.
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahiafarag)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yahia-Farag)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=yahiafarag357@gmail.com)
-
----
-
-### Thanks for visiting my profile!
+<div align="center">
+  <h3>🐍 GitHub Contributions</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yahia-Farag/Yahia-Farag/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yahia-Farag/Yahia-Farag/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation showing daily coding activity" src="https://raw.githubusercontent.com/Yahia-Farag/Yahia-Farag/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>

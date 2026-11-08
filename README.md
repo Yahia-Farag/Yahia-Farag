@@ -1,4 +1,4 @@
-<img width="100%" alt="Yahia Farag - Data Analyst | Excel, SQL, Power BI, DAX, Power Query" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0284C7&height=180&section=header&text=Yahia%20Farag&fontSize=42&fontColor=F0F6FC&fontAlignY=36&desc=Data%20Analyst%20%7C%20Excel%20%C2%B7%20SQL%20%C2%B7%20Power%20BI%20%C2%B7%20DAX%20%C2%B7%20Power%20Query&descSize=18&descAlignY=58&animation=fadeIn" />
+<img width="100%" alt="Yahia Farag - Data Analyst | Excel, SQL, Power BI, DAX, Power Query" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0284C7&height=180&section=header&text=Yahia%20Farag&fontSize=50&fontColor=F0F6FC&fontAlignY=34&desc=Data%20Analyst%20%7C%20Excel%20%C2%B7%20SQL%20%C2%B7%20Power%20BI%20%C2%B7%20DAX%20%C2%B7%20Power%20Query&descSize=22&descAlignY=58&animation=fadeIn" />
 
 I am a detail-oriented **Data Analyst** focused on turning raw data into clear, actionable insights that drive business decisions. With hands-on experience as a Data Analytics Intern at NGI and a strong foundation in commerce, I specialize in the entire data lifecycle—from rigorous data cleaning and SQL transformations to advanced modeling and interactive Power BI visualizations.
 
@@ -7,7 +7,7 @@ I am a detail-oriented **Data Analyst** focused on turning raw data into clear, 
 - **Focus Areas:** Exploratory Data Analysis (EDA), KPI Tracking, Root Cause Analysis, and Business Intelligence.
 - **Currently Learning:** Expanding my analytical toolkit with **Python** for advanced data manipulation.
 
-[![Portfolio](https://img.shields.io/badge/Personal_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://yahia-farag.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Personal_Portfolio-2563EB?style=for-the-badge)](https://yahia-farag.vercel.app/)
 [![View CV](https://img.shields.io/badge/View_CV-PDF-0284C7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Yahia-Farag/Yahia-Farag/blob/main/Yahia_Farag_Data_Analyst_CV.pdf)
 
 ## 🛠️ Tech Stack & Skills

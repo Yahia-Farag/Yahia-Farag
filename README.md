@@ -26,16 +26,12 @@
 
 <div align="center">
   <h3>🛠️ Tech Stack & Tools</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powerbi,sql,excel,python&theme=dark" alt="Core Tech Stack: Power BI, SQL, Excel, Python" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=powerbi,sql,excel,python&theme=dark" alt="Core Tech Stack: Power BI, SQL, Excel, Python" />
   <br/><br/>
   <details>
     <summary><b>View Full Toolset</b></summary>
     <br/>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" alt="Additional Tools: VS Code, Git, GitHub" />
-    </a>
+    <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" alt="Additional Tools: VS Code, Git, GitHub" />
   </details>
 </div>
 

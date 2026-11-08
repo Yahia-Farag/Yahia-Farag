@@ -1,87 +1,111 @@
-# Hi there, I'm Yahia Farag 👋
+<img width="100%" alt="Yahia Farag" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=160&section=header&text=Yahia%20Farag&fontSize=42&fontColor=F0F6FC&fontAlignY=38&animation=fadeIn" />
 
-### Data Analyst | Excel, SQL, Power BI, DAX, Power Query
+<p align="center">
+  <img alt="Data Analyst | SQL + Power BI + DAX" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&height=40&lines=Data+Analyst;SQL+%2B+Power+BI+%2B+DAX;Turning+raw+data+into+clear+decisions" />
+</p>
 
-I am a detail-oriented **Data Analyst** focused on turning raw data into clear, actionable insights that drive business decisions. With hands-on experience as a Data Analytics Intern at NGI and a strong foundation in commerce, I specialize in the entire data lifecycle—from rigorous data cleaning and SQL transformations to advanced modeling and interactive Power BI visualizations.
+<p align="center">
+  <a href="https://yahia-farag.vercel.app/"><img alt="Portfolio" src="assets/btn-portfolio.svg" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Yahia-Farag/Yahia-Farag/blob/main/Yahia_Farag_Data_Analyst_CV.pdf"><img alt="View CV" src="assets/btn-cv.svg" /></a>
+</p>
 
-- **Current Role:** Data Analytics Intern at NGI, building enterprise-level retail dashboards.
-- **Education:** Third-year student, Faculty of Commerce at Menoufia University.
-- **Focus Areas:** Exploratory Data Analysis (EDA), KPI Tracking, Root Cause Analysis, and Business Intelligence.
-- **Currently Learning:** Expanding my analytical toolkit with **Python** for advanced data manipulation.
+<br>
 
-[![Portfolio](https://img.shields.io/badge/Personal_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yahia-farag.vercel.app/)
-[![View CV](https://img.shields.io/badge/View_CV-PDF-0284C7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Yahia-Farag/Yahia-Farag/blob/main/Yahia_Farag_Data_Analyst_CV.pdf)
+<h3 align="center">About</h3>
 
-## 🛠️ Tech Stack & Skills
+<p align="center">
+  Detail-oriented <b>Data Analyst</b> turning raw data into clear, actionable insights,<br>
+  from SQL cleaning and transformation to modeling and interactive Power BI dashboards.
+</p>
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-4472C4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <b>Current role:</b> Data Analytics Intern at NGI, building enterprise-level retail dashboards<br>
+  <b>Education:</b> Third-year student, Faculty of Commerce, Menoufia University<br>
+  <b>Focus:</b> EDA, KPI Tracking, Root Cause Analysis, Business Intelligence<br>
+  <b>Learning:</b> Python for advanced data manipulation
+</p>
 
-- **Core Competencies:** Data Cleaning & Transformation, Data Modeling, Exploratory Data Analysis (EDA), Profit & Loss Analysis.
-- **Technical Execution:** Advanced SQL (CTEs, Window Functions, Subqueries), DAX Measures, Relational Databases, Power BI Dashboard Design.
+<br>
 
-## 📊 Featured Projects
+<h3 align="center">Tech Stack</h3>
 
-### HR Attrition Analysis — Workforce & Root Cause Insights
-**Tools:** SQL Server (T-SQL) · Power BI · DAX
-
-Comprehensive workforce analytics project investigating employee attrition root causes, department turnover, overtime impact, and job satisfaction[cite: 20]. Extracted and cleaned records using SQL, and engineered an interactive Power BI dashboard featuring executive KPIs.
-- **Business Impact:** Uncovered actionable insights regarding job role turnover rates and overtime impact to optimize HR retention strategies.
-- **Skills:** Advanced SQL Queries, DAX, Minimalist Dashboard Design.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Yahia-Farag/Yahia-Farag/main/HR%20Attrition%202.png" alt="HR Attrition Dashboard Preview" width="700"/>
-</div>
-
-🔗 [View Project](https://github.com/Yahia-Farag/End-To-End-HR-Attrition-Analytics)
-
----
-
-### Global Layoffs Analytics — Corporate Trends & Funding
-**Tools:** SQL Server (T-SQL) · Power BI · Power Query · DAX
-
-An end-to-end data auditing, T-SQL cleaning, and Power BI business intelligence project analyzing global corporate layoffs, industry trends, and funding impacts (2020–2024).
-- **Business Impact:** Provided a clear macroeconomic overview of industry-specific vulnerabilities, geographic layoff distributions, and post-funding survival rates.
-- **Skills:** Data Auditing, Complex T-SQL Transformations, Advanced Power BI Visualizations.
+<p align="center">
+  <img alt="SQL Server, Power BI, Excel, Power Query, DAX, Python" src="assets/tech-stack.svg" />
+</p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Yahia-Farag/Yahia-Farag/main/Layoff%20Analytics.png" alt="Global Layoffs Analytics Dashboard Preview" width="700"/>
+<details>
+<summary><b>Skills in detail</b></summary>
+<br>
+<p align="center">
+  <b>Core Competencies:</b> Data Cleaning &amp; Transformation, Data Modeling, Exploratory Data Analysis (EDA), Profit &amp; Loss Analysis<br><br>
+  <b>Technical Execution:</b> Advanced SQL (CTEs, Window Functions, Subqueries), DAX Measures, Relational Databases, Power BI Dashboard Design
+</p>
+</details>
 </div>
 
-🔗 [View Project](https://github.com/Yahia-Farag/End-to-End-Global-Layoffs-Analytics)
+<br>
 
----
+<h3 align="center">Featured Projects</h3>
 
-### Restaurant Sales Analysis — Performance & Revenue Trends
-**Tools:** SQL Server (T-SQL) · Power BI · DAX
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Yahia-Farag/End-To-End-HR-Attrition-Analytics">
+        <img alt="HR Attrition Dashboard Preview" src="https://raw.githubusercontent.com/Yahia-Farag/Yahia-Farag/main/HR%20Attrition%202.png" width="100%" />
+      </a>
+      <br><b>HR Attrition Analysis</b><br>
+      Root causes of employee turnover: department, overtime and job satisfaction.<br>
+      <sub>SQL Server · Power BI · DAX</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Yahia-Farag/End-to-End-Global-Layoffs-Analytics">
+        <img alt="Global Layoffs Analytics Dashboard Preview" src="https://raw.githubusercontent.com/Yahia-Farag/Yahia-Farag/main/Layoff%20Analytics.png" width="100%" />
+      </a>
+      <br><b>Global Layoffs Analytics</b><br>
+      Layoff trends, industry vulnerability and funding impact, 2020–2024.<br>
+      <sub>SQL Server · Power Query · Power BI · DAX</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Yahia-Farag/End-To-End-Restaurant-Sales-Analysis">
+        <img alt="Restaurant Sales Analytics Dashboard Preview" src="https://raw.githubusercontent.com/Yahia-Farag/Yahia-Farag/main/Restaurant%20Sales%20Analytics.png" width="100%" />
+      </a>
+      <br><b>Restaurant Sales Analysis</b><br>
+      Peak ordering hours, top menu items and revenue trends.<br>
+      <sub>SQL Server · Power BI · DAX</sub>
+    </td>
+  </tr>
+</table>
 
-End-to-end data cleaning and business intelligence project using T-SQL and Power BI to analyze restaurant sales performance, customer metrics, and revenue trends.
-- **Business Impact:** Highlighted peak ordering hours, top-performing menu items, and customer dining patterns to drive targeted marketing and operational efficiency.
-- **Skills:** ETL Pipeline, Data Cleaning, Relational Modeling, DAX Measures.
+<br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Yahia-Farag/Yahia-Farag/main/Restaurant%20Sales%20Analytics.png" alt="Restaurant Sales Analytics Dashboard Preview" width="700"/>
-</div>
+<h3 align="center">Analytical Philosophy</h3>
 
-🔗 [View Project](https://github.com/Yahia-Farag/End-To-End-Restaurant-Sales-Analysis)
+<p align="center">
+  I believe tools are only as good as the questions they answer.<br>
+  I focus on asking the right business questions, choosing the right approach,<br>
+  and communicating findings clearly to non-technical stakeholders.
+</p>
 
-## 📈 My Analytical Philosophy
+<p align="center">
+  <b>Raw Data → Clean Data → Analysis → Insights → Business Decisions</b>
+</p>
 
-I believe tools are only as good as the questions they answer. My focus goes beyond writing code; it's about mastering the translation process: 
+<br>
 
-> **Raw Data → Clean Data → Analysis → Insights → Business Decisions**
+<h3 align="center">Let's Connect</h3>
 
-I prioritize asking the right business questions, selecting the optimal analytical approach, and communicating findings clearly to non-technical stakeholders.
+<p align="center">
+  <a href="https://www.linkedin.com/in/YAHIA-FARAG"><img alt="LinkedIn" src="assets/btn-linkedin.svg" /></a>
+  &nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yahiafarag357@gmail.com"><img alt="Email" src="assets/btn-email.svg" /></a>
+</p>
 
-## 🤝 Let's Connect
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YAHIA-FARAG)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yahia-Farag)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=yahiafarag357@gmail.com)
+<p align="center">
+  <sub><i>Thanks for visiting my profile!</i></sub>
+</p>
 
----
-
-### Thanks for visiting my profile!
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=80&section=footer" />

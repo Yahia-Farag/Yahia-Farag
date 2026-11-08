@@ -32,23 +32,39 @@ Comprehensive workforce analytics project investigating employee attrition root 
 - **Business Impact:** Uncovered actionable insights regarding job role turnover rates and overtime impact to optimize HR retention strategies.
 - **Skills:** Advanced SQL Queries, DAX, Minimalist Dashboard Design.
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Yahia-Farag/Yahia-Farag/main/HR%20Attrition%202.png" alt="HR Attrition Dashboard Preview" width="700"/>
+</div>
+
 🔗 [View Project](https://github.com/Yahia-Farag/End-To-End-HR-Attrition-Analytics)
+
+---
 
 ### Global Layoffs Analytics — Corporate Trends & Funding
 **Tools:** SQL Server (T-SQL) · Power BI · Power Query · DAX
 
-An end-to-end data auditing, T-SQL cleaning, and Power BI business intelligence project analyzing global corporate layoffs, industry trends, and funding impacts (2020–2024)[cite: 21].
+An end-to-end data auditing, T-SQL cleaning, and Power BI business intelligence project analyzing global corporate layoffs, industry trends, and funding impacts (2020–2024).
 - **Business Impact:** Provided a clear macroeconomic overview of industry-specific vulnerabilities, geographic layoff distributions, and post-funding survival rates.
 - **Skills:** Data Auditing, Complex T-SQL Transformations, Advanced Power BI Visualizations.
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Yahia-Farag/Yahia-Farag/main/Layoff%20Analytics.png" alt="Global Layoffs Analytics Dashboard Preview" width="700"/>
+</div>
+
 🔗 [View Project](https://github.com/Yahia-Farag/End-to-End-Global-Layoffs-Analytics)
+
+---
 
 ### Restaurant Sales Analysis — Performance & Revenue Trends
 **Tools:** SQL Server (T-SQL) · Power BI · DAX
 
-End-to-end data cleaning and business intelligence project using T-SQL and Power BI to analyze restaurant sales performance, customer metrics, and revenue trends[cite: 22].
+End-to-end data cleaning and business intelligence project using T-SQL and Power BI to analyze restaurant sales performance, customer metrics, and revenue trends.
 - **Business Impact:** Highlighted peak ordering hours, top-performing menu items, and customer dining patterns to drive targeted marketing and operational efficiency.
 - **Skills:** ETL Pipeline, Data Cleaning, Relational Modeling, DAX Measures.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Yahia-Farag/Yahia-Farag/main/Restaurant%20Sales%20Analytics.png" alt="Restaurant Sales Analytics Dashboard Preview" width="700"/>
+</div>
 
 🔗 [View Project](https://github.com/Yahia-Farag/End-To-End-Restaurant-Sales-Analysis)
 

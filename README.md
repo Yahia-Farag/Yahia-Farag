@@ -9,7 +9,7 @@ I am a detail-oriented **Data Analyst** focused on turning raw data into clear, 
 
 [![Portfolio](https://img.shields.io/badge/Personal_Portfolio-0284C7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMTIgMmExNC41IDE0LjUgMCAwIDAgMCAyMCAxNC41IDE0LjUgMCAwIDAgMC0yMCIvPjxwYXRoIGQ9Ik0yIDEyaDIwIi8%2BPC9zdmc%2B)](https://yahia-farag.vercel.app/) &nbsp; [![View CV](https://img.shields.io/badge/VIEW_CV_PDF-0284C7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTE1IDJINmEyIDIgMCAwIDAtMiAydjE2YTIgMiAwIDAgMCAyIDJoMTJhMiAyIDAgMCAwIDItMlY3WiIvPjxwYXRoIGQ9Ik0xNCAydjRhMiAyIDAgMCAwIDIgMmg0Ii8%2BPHBhdGggZD0iTTEwIDlIOCIvPjxwYXRoIGQ9Ik0xNiAxM0g4Ii8%2BPHBhdGggZD0iTTE2IDE3SDgiLz48L3N2Zz4%3D)](https://github.com/Yahia-Farag/Yahia-Farag/blob/main/Yahia_Farag_Data_Analyst_CV.pdf)
 
-## 🛠️ Tech Stack & Skills
+## 🔷 Tech Stack & Skills
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-0284C7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjkiIHJ5PSIzIi8%2BPHBhdGggZD0iTTMgNVYxOUE5IDMgMCAwIDAgMjEgMTlWNSIvPjxwYXRoIGQ9Ik0zIDEyQTkgMyAwIDAgMCAyMSAxMiIvPjwvc3ZnPg%3D%3D)
 ![Power BI](https://img.shields.io/badge/Power_BI-0284C7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTMgM3YxNmEyIDIgMCAwIDAgMiAyaDE2Ii8%2BPHBhdGggZD0iTTE4IDE3VjkiLz48cGF0aCBkPSJNMTMgMTdWNSIvPjxwYXRoIGQ9Ik04IDE3di0zIi8%2BPC9zdmc%2B)
@@ -21,7 +21,7 @@ I am a detail-oriented **Data Analyst** focused on turning raw data into clear, 
 - **Core Competencies:** Data Cleaning & Transformation, Data Modeling, Exploratory Data Analysis (EDA), Profit & Loss Analysis.
 - **Technical Execution:** Advanced SQL (CTEs, Window Functions, Subqueries), DAX Measures, Relational Databases, Power BI Dashboard Design.
 
-## 📊 Featured Projects
+## 🔷 Featured Projects
 
 ### HR Attrition Analysis — Workforce & Root Cause Insights
 **Tools:** SQL Server (T-SQL) · Power BI · DAX
@@ -66,7 +66,7 @@ End-to-end data cleaning and business intelligence project using T-SQL and Power
 
 🔗 [View Project](https://github.com/Yahia-Farag/End-To-End-Restaurant-Sales-Analysis)
 
-## 📈 My Analytical Philosophy
+## 🔷 My Analytical Philosophy
 
 I believe tools are only as good as the questions they answer. My focus goes beyond writing code; it's about mastering the translation process: 
 
@@ -74,7 +74,7 @@ I believe tools are only as good as the questions they answer. My focus goes bey
 
 I prioritize asking the right business questions, selecting the optimal analytical approach, and communicating findings clearly to non-technical stakeholders.
 
-## 🤝 Let's Connect
+## 🔷 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0284C7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTE2IDhhNiA2IDAgMCAxIDYgNnY3aC00di03YTIgMiAwIDAgMC0yLTIgMiAyIDAgMCAwLTIgMnY3aC00di03YTYgNiAwIDAgMSA2LTZ6Ii8%2BPHJlY3Qgd2lkdGg9IjQiIGhlaWdodD0iMTIiIHg9IjIiIHk9IjkiLz48Y2lyY2xlIGN4PSI0IiBjeT0iNCIgcj0iMiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/YAHIAFARAG)
 [![Email](https://img.shields.io/badge/Email-0284C7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiB4PSIyIiB5PSI0IiByeD0iMiIvPjxwYXRoIGQ9Im0yMiA3LTguOTcgNS43YTEuOTQgMS45NCAwIDAgMS0yLjA2IDBMMiA3Ii8%2BPC9zdmc%2B)](https://mail.google.com/mail/?view=cm&fs=1&to=yahiafarag357@gmail.com)

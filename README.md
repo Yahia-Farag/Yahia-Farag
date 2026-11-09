@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0284C7&height=180&section=header&text=Yahia%20Farag&fontSize=50&fontColor=F0F6FC&fontAlignY=31&desc=Data%20Analyst%20%7C%20Excel%20%C2%B7%20SQL%20%C2%B7%20Power%20BI%20%C2%B7%20DAX%20%C2%B7%20Power%20Query&descSize=22&descAlignY=55&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:38BDF8&height=180&section=header&text=Yahia%20Farag&fontSize=50&fontColor=0C4A6E&fontAlignY=31&desc=Data%20Analyst%20%7C%20Excel%20%C2%B7%20SQL%20%C2%B7%20Power%20BI%20%C2%B7%20DAX%20%C2%B7%20Power%20Query&descSize=22&descAlignY=55&animation=fadeIn">
-  <img width="100%" alt="Yahia Farag - Data Analyst | Excel, SQL, Power BI, DAX, Power Query" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0284C7&height=180&section=header&text=Yahia%20Farag&fontSize=50&fontColor=F0F6FC&fontAlignY=31&desc=Data%20Analyst%20%7C%20Excel%20%C2%B7%20SQL%20%C2%B7%20Power%20BI%20%C2%B7%20DAX%20%C2%B7%20Power%20Query&descSize=22&descAlignY=55&animation=fadeIn" />
-</picture>
+<img width="100%" alt="Yahia Farag - Data Analyst | Excel, SQL, Power BI, DAX, Power Query" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0284C7&height=180&section=header&text=Yahia%20Farag&fontSize=50&fontColor=F0F6FC&fontAlignY=31&desc=Data%20Analyst%20%7C%20Excel%20%C2%B7%20SQL%20%C2%B7%20Power%20BI%20%C2%B7%20DAX%20%C2%B7%20Power%20Query&descSize=22&descAlignY=55&animation=fadeIn" />
 
 I am a detail-oriented **Data Analyst** focused on turning raw data into clear, actionable insights that drive business decisions. With hands-on experience as a Data Analytics Intern at NGI and a strong foundation in commerce, I specialize in the entire data lifecycle—from rigorous data cleaning and SQL transformations to advanced modeling and interactive Power BI visualizations.
 
@@ -86,8 +82,4 @@ I prioritize asking the right business questions, selecting the optimal analytic
 ---
 
 <h3 align="center"><i>Thanks for visiting my profile!</i></h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,100:0D1117&height=100&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:FFFFFF&height=100&section=footer">
-  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,100:0D1117&height=100&section=footer" />
-</picture>
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,100:0D1117&height=100&section=footer" />

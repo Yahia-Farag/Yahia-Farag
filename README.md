@@ -7,7 +7,7 @@ I am a detail-oriented **Data Analyst** focused on turning raw data into clear, 
 - **Focus Areas:** Exploratory Data Analysis (EDA), KPI Tracking, Root Cause Analysis, and Business Intelligence.
 - **Currently Learning:** Expanding my analytical toolkit with **Python** for advanced data manipulation.
 
-[![Portfolio](https://img.shields.io/badge/Personal_Portfolio-2563EB?style=for-the-badge)](https://yahia-farag.vercel.app/)[![View CV](https://img.shields.io/badge/VIEW_CV_PDF-0284C7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Yahia-Farag/Yahia-Farag/blob/main/Yahia_Farag_Data_Analyst_CV.pdf)
+[![Portfolio](https://img.shields.io/badge/Personal_Portfolio-2563EB?style=for-the-badge)](https://yahia-farag.vercel.app/) &nbsp; [![View CV](https://img.shields.io/badge/VIEW_CV_PDF-0284C7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Yahia-Farag/Yahia-Farag/blob/main/Yahia_Farag_Data_Analyst_CV.pdf)
 
 ## 🛠️ Tech Stack & Skills
 

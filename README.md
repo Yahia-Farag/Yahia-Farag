@@ -31,7 +31,7 @@ Comprehensive workforce analytics project investigating employee attrition root 
 - **Skills:** Advanced SQL Queries, DAX, Minimalist Dashboard Design.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Yahia-Farag/Yahia-Farag/main/HR%20Attrition%202.png" alt="HR Attrition Dashboard Preview" width="700"/>
+  <img src="https://raw.githubusercontent.com/Yahia-Farag/End-To-End-HR-Attrition-Analytics/main/HR%20Attrition%202.png" alt="HR Attrition Dashboard Preview" width="700"/>
 </div>
 
 🔗 [View Project](https://github.com/Yahia-Farag/End-To-End-HR-Attrition-Analytics)

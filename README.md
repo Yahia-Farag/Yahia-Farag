@@ -23,6 +23,21 @@ I am a detail-oriented **Data Analyst** focused on turning raw data into clear, 
 
 ## 🔷 Featured Projects
 
+### TMG Real Estate Portfolio Analytics — Market & Pricing Intelligence
+**Tools:** Power BI · Power Query · DAX · Excel
+
+End-to-end real estate portfolio analytics analyzing a market sample of 157 property listings scraped from Nawy across Talaat Moustafa Group (TMG) developments. Designed with an executive Bento Grid layout aligned with TMG's corporate brand identity.
+- **Business Impact:** Benchmarked price per square meter across compounds, property types, and payment structures (Cash vs. Installments) to uncover high-value market segments.
+- **Skills:** Power Query ETL, Data Standardization, DAX Measures, Executive Bento Grid Design.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Yahia-Farag/End-To-End-TMG-Real-Estate-Analytics/main/Talaat_Moustafa_Real_Estate.png" alt="TMG Real Estate Portfolio Dashboard Preview" width="700"/>
+</div>
+
+🔗 [View Project](https://github.com/Yahia-Farag/End-To-End-TMG-Real-Estate-Analytics) &nbsp;|&nbsp; 📊 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTA0MTIwOTUtY2ZiZi00MTQ2LTg4YTMtNGM0ZWYzOGUwNDM1IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
+
+---
+
 ### HR Attrition Analysis — Workforce & Root Cause Insights
 **Tools:** SQL Server (T-SQL) · Power BI · DAX
 
@@ -34,7 +49,7 @@ Comprehensive workforce analytics project investigating employee attrition root 
   <img src="https://raw.githubusercontent.com/Yahia-Farag/End-To-End-HR-Attrition-Analytics/main/HR%20Attrition%202.png" alt="HR Attrition Dashboard Preview" width="700"/>
 </div>
 
-🔗 [View Project](https://github.com/Yahia-Farag/End-To-End-HR-Attrition-Analytics)
+🔗 [View Project](https://github.com/Yahia-Farag/End-To-End-HR-Attrition-Analytics) &nbsp;|&nbsp; 📊 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTk5YTkzNDItZDRjMi00MWVmLTlmZDctMDE2MzUyNzcyZGMxIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
 
 ---
 
@@ -49,22 +64,7 @@ An end-to-end data auditing, T-SQL cleaning, and Power BI business intelligence 
   <img src="https://raw.githubusercontent.com/Yahia-Farag/Yahia-Farag/main/Layoff%20Analytics.png" alt="Global Layoffs Analytics Dashboard Preview" width="700"/>
 </div>
 
-🔗 [View Project](https://github.com/Yahia-Farag/End-to-End-Global-Layoffs-Analytics)
-
----
-
-### Restaurant Sales Analysis — Performance & Revenue Trends
-**Tools:** SQL Server (T-SQL) · Power BI · DAX
-
-End-to-end data cleaning and business intelligence project using T-SQL and Power BI to analyze restaurant sales performance, customer metrics, and revenue trends.
-- **Business Impact:** Highlighted peak ordering hours, top-performing menu items, and customer dining patterns to drive targeted marketing and operational efficiency.
-- **Skills:** ETL Pipeline, Data Cleaning, Relational Modeling, DAX Measures.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Yahia-Farag/Yahia-Farag/main/Restaurant%20Sales%20Analytics.png" alt="Restaurant Sales Analytics Dashboard Preview" width="700"/>
-</div>
-
-🔗 [View Project](https://github.com/Yahia-Farag/End-To-End-Restaurant-Sales-Analysis)
+🔗 [View Project](https://github.com/Yahia-Farag/End-To-End-Global-Layoffs-Analytics) &nbsp;|&nbsp; 📊 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODAwMjNkNDAtM2M5Ni00ZDMwLWE1MzItZDdjMGEwNDY5ZTVkIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
 
 ## 🔷 My Analytical Philosophy
 
